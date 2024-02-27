@@ -44,14 +44,12 @@ const projectList = [
   },
   {
     title: "My Resume Site",
-    description:
-      "My academe resume. Includes my experience and research abilities.",
+    description: "My academe resume. Includes my experience and research abilities.",
     url: "https://onedrive.live.com/?authkey=%21AH3nunfb8BCZwCI&cid=8B5335EBA173F783&id=8B5335EBA173F783%2120583&parId=8B5335EBA173F783%21105&o=OneUp",
   },
   {
     title: "How I built my own full-linkage knowledge system in the age of information explosion",
-    description:
-      "Video interview to explain my knowledge system, and how best to use each tool.",
+    description: "Video interview to explain my knowledge system, and how best to use each tool.",
     url: "https://sspai.com/post/74992",
   },
 ];
